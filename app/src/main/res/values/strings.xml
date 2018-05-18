@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="daily_forecast_no_data">There is no data available.</string>
+</resources>
